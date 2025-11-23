@@ -263,4 +263,27 @@ ul.stats-wrap {
   border-top-right-radius: 22px;
 }
 
+.product-footer {
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #508650;
+    margin-top: 15px;
+    color: #fff;
+    border-radius: 10px;
+}
+
+.product-footer a{
+    color: #fff;
+    text-decoration: underline;
+}
+.product-footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.product-footer:hover {
+    background-color: #3d7a62;
+    font-size: larger;
+}
 

@@ -15,6 +15,7 @@ function ShopPage() {
       <div className="plant-container">
         <ProductList plantData={plantData} />
       </div>
+      <div className="product-footer"><a href="https://github.com/sherksiva" target="_blank">Sivaprakash Raman</a></div>
       </div>
     </>
   );
